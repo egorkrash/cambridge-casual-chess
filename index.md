@@ -16,7 +16,7 @@ Welcome to the Cambridge Casual Chess Club! We are still working on the website,
 
 
 ## Location
-We meet every Tuesday at 7:00pm at the Grain and Hop Store (**2nd floor**), 69 Regent Street, Cambridge, CB2 1AB.
+We meet every Tuesday at 7:00pm at the Grain and Hop Store (**upstairs**), 69 Regent Street, Cambridge, CB2 1AB.
 
 [![Map](https://img.icons8.com/color/48/000000/google-maps-new.png)](https://maps.app.goo.gl/k7hjT1QkWpfDZJrz7)
 
