@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cambridge Casual Chess Club
+# Cambridge Casual Chess
 
 Welcome to the Cambridge Casual Chess Club! We are still working on the website, but in the meantime, you can join us using the links below.
 
