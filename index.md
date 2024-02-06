@@ -1,41 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Cambridge Casual Chess Club</title>
-  <style>
-    .contact-icons a {
-      margin-right: 10px;
-    }
-    .donate-button {
-      display: inline-block;
-      margin-top: 20px;
-      padding: 10px 20px;
-      background-color: #f44336;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .donate-button:hover {
-      background-color: #e33022;
-    }
-  </style>
-</head>
-<body>
-  <h1>Cambridge Casual Chess Club</h1>
-  <h2>Contacts</h2>
-  <div class="contact-icons">
-    <a href="https://chat.whatsapp.com/HpvIbSZHuYv0KDkhN7xna5">
-      <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp">
-    </a>
-    <a href="https://www.chess.com/club/cambridge-casual-chess/join">
-      <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="Chess.com", width=30, height=40>
-    </a>
-    <a href="https://www.instagram.com/cambridgecasualchess?igsh=NWJ2cWttNnk4a3Bj">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
-    </a>
-  </div>
-  <a href="https://gofund.me/75685c96" class="donate-button">
-    Donate on GoFundMe
-  </a>
-</body>
-</html>
+---
+layout: default
+---
+
+# Cambridge Casual Chess Club
+
+Welcome to the Cambridge Casual Chess Club! We are still working on the website, but in the meantime, you can join us using the links below. If you wish to donate to the club, you can do so on our GoFundMe page.
+
+## Links
+
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://chat.whatsapp.com/HpvIbSZHuYv0KDkhN7xna5)
+
+[![Chess.com](https://icons8.com/icon/C5LTcmsc3cr0/chess-com)](https://www.chess.com/club/cambridge-casual-chess/join)
+
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/cambridgecasualchess?igsh=NWJ2cWttNnk4a3Bj)
+
+[Donate on GoFundMe](https://gofund.me/75685c96)
