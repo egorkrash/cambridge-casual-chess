@@ -13,6 +13,13 @@ Welcome to the Cambridge Casual Chess Club! We are still working on the website,
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/cambridgecasualchess?igsh=NWJ2cWttNnk4a3Bj)
 
 
+
+
+## Location
+We meet every Tuesday at 7:00pm at the Grain and Hop Store (**2nd floor**), 69 Regent Street, Cambridge, CB2 1AB.
+
+[![Map](https://img.icons8.com/color/48/000000/google-maps-new.png)](https://maps.app.goo.gl/k7hjT1QkWpfDZJrz7)
+
 ## Support Us
 
 If you wish to donate to the club, you can do so on our GoFundMe page:
@@ -21,11 +28,3 @@ If you wish to donate to the club, you can do so on our GoFundMe page:
     <a href="https://gofund.me/75685c96" style="font-size:1.5em;background-color:#28a745;color:white;padding:1em 2em;border-radius:5px;text-decoration:none;">Donate on GoFundMe</a>
 </div>
 
-
-## Location
-We meet every Tuesday at 7:00pm at the Grain and Hop Store (**2nd floor**), 69 Regent Street, Cambridge, CB2 1AB.
-
-[![Map](https://img.icons8.com/color/48/000000/google-maps-new.png)](https://maps.app.goo.gl/k7hjT1QkWpfDZJrz7)
-
-
-<iframe src="https://maps.app.goo.gl/k7hjT1QkWpfDZJrz7" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
